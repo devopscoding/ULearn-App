@@ -2,7 +2,7 @@
 This is Provide Free Udemy Course and Coupon code.
 
 # ULearn - Free Udemy Course and Coupons
-<img src="Logo.png" width="200">
+<img src="logo.png" width="200">
 <a href="https://play.google.com/store/apps/details?id=com.ulearn"><img src="Playstore.png"  width="120"></a>
 <h2>This App provide Free Udemy Course and Coupons.</h2>
 
